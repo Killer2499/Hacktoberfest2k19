@@ -1,0 +1,5 @@
+Name: musale krushna pavan
+
+college: iiit kalyani
+
+skills: c,c++, java ,Pyhton
