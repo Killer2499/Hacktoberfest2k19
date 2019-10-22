@@ -1,0 +1,3 @@
+name : yelleti varshith
+college : iiit kalyani
+skill set : c , c++, java, python, html , css 
