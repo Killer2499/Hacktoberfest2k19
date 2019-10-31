@@ -12,4 +12,4 @@ How to Contribute to this repository
     8.After making changes use this command to add the changes: git add filename, and then git commit -m "message here".
     9.After that use this command: git push origin branchname.
     10.Create a pull request, and wait for Pull Request to get merged.
-    11.Done.
+    11.done, thankyou
