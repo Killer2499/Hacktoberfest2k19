@@ -1,0 +1,5 @@
+Name: Ravi
+
+College: IIIT Kalyani
+
+Skills : App Development, Web Development
