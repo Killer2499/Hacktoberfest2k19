@@ -1,5 +1,7 @@
-Name: Ravi
+Name: Chintam Ravi Chandra
 
-College: IIIT Kalyani
+College: Indian Institute of Information Technology Kalyani
 
-Skills : App Development, Web Development
+Skills : Software Development, Big Data
+
+Hobbies: Anime, Series, Football
